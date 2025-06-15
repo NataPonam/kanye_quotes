@@ -1,16 +1,16 @@
-# kanye_quotes
+# Учебный проект kanye_quotes
+:star::star::star::star::star:Проект "Kanye West Quotes":star::star::star::star::star:\
+:heart:Демо Flutter-приложение для отображения случайных цитат Kanye West с возможностью перевода на русский язык :heart:\
+Проект создан для практики работы с запросами, обработки возможных ошибок, стэйт менеджером ValueNotifier ну и конечно же вёрстки:heart:
+            
+## Стек:
+**Flutter (Dart)** - кроссплатформенная разработка
+**Dio** - HTTP-клиент для работы с API
+**Google Translator API** - очень машинный перевод цитат, умеет удивлять
+**ValueNotifier** - state management
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Запуск
+```bash
+flutter pub get
+flutter run
+```
